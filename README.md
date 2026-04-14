@@ -1,2 +1,4 @@
 # site
-fnValves is a modern schematic editor for plumbing and instrumentation diagrams (P&amp;IDs). website repo
+fnValves is a modern schematic editor for plumbing and instrumentation diagrams (P&amp;IDs).
+
+this is the website repo that backs https://fnvalves.com/
