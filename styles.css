@@ -4,4 +4,6 @@ body {
   align-items: center;
   border: 2px dotted #20a4d6;
   text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
 }
